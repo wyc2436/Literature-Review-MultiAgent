@@ -1,0 +1,4 @@
+.env
+papers/*.pdf
+__pycache__/
+output/*.md
